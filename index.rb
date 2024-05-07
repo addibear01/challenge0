@@ -1,7 +1,7 @@
 #
 # Addison Janzen-Winter
 #
-puts "Enter your subtotal:"
+print "Enter your subtotal:"
 sub_total = gets
 sub_total = sub_total.to_f
 # puts "Enter your subtotal = #{sub_total}"
